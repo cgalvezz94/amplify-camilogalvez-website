@@ -8,7 +8,7 @@ www.camilogalvez.com is a comprehensive website designed to teach non-IT users a
 
 ## How It Works
 1. **Redirect to my Youtube Channel:** All my new content will be displayed on my Youtube Channel to spread knowledge everywhere.
-2. **Contact Form:** All you need from me ans just one click.
+2. **Contact Form:** All you need from me just in one click.
 3. **Describe my studies and experience:** Any detail about my journey in this field.
 4. **Grow:** My background on different companies and personal projects.
 
@@ -25,11 +25,11 @@ My mission is to:
 
 
 ## Get in Touch
-We value your feedback! Feel free to reach out through:
+I value your feedback! Feel free to reach out through:
 - **Email:** [camilogalvez125@gmail.com]
 - **LinkedIn:** [https://www.linkedin.com/in/camilogalvez12/]
 
 
 ---
 
-We’re thrilled to have you on my github repositories! 🚀 Explore, engage, and grow with me.
+I am thrilled to have you on my github repositories! 🚀 Explore, engage, and grow with me.
