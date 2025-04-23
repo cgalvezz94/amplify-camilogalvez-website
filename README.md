@@ -30,9 +30,6 @@ We value your feedback! Feel free to reach out through:
 - **LinkedIn:** [https://www.linkedin.com/in/camilogalvez12/]
 
 
-## License
-[Add the license under which your project is distributed, e.g., MIT License.]
-
 ---
 
-We’re thrilled to have you on [Your Website Name]! 🚀 Explore, engage, and grow with us.
+We’re thrilled to have you on my github repositories! 🚀 Explore, engage, and grow with me.
